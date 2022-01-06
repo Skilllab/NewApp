@@ -1,7 +1,6 @@
-﻿using System.Windows;
-using MahApps.Metro.Controls;
+﻿using MahApps.Metro.Controls;
 
-namespace NewApp
+namespace NewApp.View
 {
     /// <summary>
     /// Логика взаимодействия для MainWindowView.xaml
